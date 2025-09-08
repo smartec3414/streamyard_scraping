@@ -1,0 +1,5 @@
+playwright==1.45.0
+openpyxl==3.1.5
+pytz==2024.1
+python-dateutil==2.9.0.post0
+
