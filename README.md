@@ -7,7 +7,7 @@ Cross-platform local scraper for StreamYard chat messages with Excel export (.xl
 - Works on Windows and macOS
 - Uses Playwright (Chromium) and exports to Excel via openpyxl
 - Allows custom CSS selectors if StreamYard DOM changes
-
+   
 ## Prerequisites
 - Python 3.10+
 - Windows or macOS

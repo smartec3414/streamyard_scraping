@@ -11,7 +11,7 @@ fi
 source .venv/bin/activate
 
 # Install deps
-pip install -r requirements.txt
+pip install -r requirements.txt  
 
 # Install browser (idempotent)
 python -m playwright install chromium --with-deps

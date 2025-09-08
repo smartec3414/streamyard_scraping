@@ -7,7 +7,7 @@ if (-Not (Test-Path .\.venv)) {
 
 # Activate venv
 . .\.venv\Scripts\Activate.ps1
-
+  
 # Install deps
 pip install -r requirements.txt
 
