@@ -17,8 +17,8 @@ from playwright.async_api import async_playwright, Page
 
 STREAMYARD_URL_DEFAULT = "https://streamyard.studio/?v=UnchainedPodcasts"
 
-
-@dataclass
+     
+@dataclass  
 class ChatMessage:
     message: str
     nickname: str
